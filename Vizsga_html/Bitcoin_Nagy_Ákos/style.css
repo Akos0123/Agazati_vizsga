@@ -1,0 +1,61 @@
+* {
+    color: whitesmoke
+}
+
+
+body {
+    background: url(kepek/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.kep {
+    width: 450px;
+    border: 4px solid rgb(57, 207, 207);
+}
+
+h1, h2 {
+    text-align: center;
+    color: white;
+}
+
+sub {
+    font-size: 12px;
+
+}
+
+p {
+    text-align: center;
+    text-align: justify;
+}
+
+.wiki {
+    text-decoration: none;
+    color: yellow;
+}
+
+.reszek {
+    background-color: rgba(57, 207, 207, 0.6);
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.miaz {
+    background-color: rgba(206, 238, 23, 0.6);
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.szoftver {
+    text-align: center;
+    margin: auto;
+    margin-top: 50px;
+    width: 500px;
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+
+}
