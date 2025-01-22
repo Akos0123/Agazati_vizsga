@@ -1,0 +1,44 @@
+#elsokettokep {
+    width: 310px;
+    height: 400px;
+}
+
+#tobbikep {
+    height: 400px;
+    width: 350px;
+}
+
+#elsokettokep, #tobbikep {
+    display: block;
+    align-items: center;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h1,h2 {
+    text-align: center;
+}
+
+#gyoztes {
+    background-color: #ffff99;
+}
+
+#gyoztes p {
+    text-align: justify;
+}
+
+#wbaimg {
+    width: 300px;
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+h2 a {
+    text-decoration: none;
+    color: #6b4226;
+    font-weight: bold;
+}
